@@ -8,4 +8,4 @@ Der Algorithmus entstand dabei als Abgabe für die Wahlpflicht Veranstaltung des
 
 ## Konzeption
 
-![image](./Konzept des Algorithmus.PNG)
+<img src="./Konzept des Algorithmus.PNG"/>
