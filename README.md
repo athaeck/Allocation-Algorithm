@@ -14,7 +14,7 @@ Der Algorithmus entstand dabei als Abgabe für die Wahlpflicht Veranstaltung des
 
 Bevor der Algorithmus gestartet werden kann, muss sowohl in der ```InitStudents()```, ```InitInitiators()``` und ```InitProjects()``` die jeweiligen Studierenden, Projektinitiatoren und Projekte konfiguriert werden.
 
-Im Anscchluss kann der Algorithmus gestartet werden.
+Im Anschluss kann der Algorithmus gestartet werden.
 
 ## Algorithmus starten
 
