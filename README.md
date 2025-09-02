@@ -9,3 +9,18 @@ Der Algorithmus entstand dabei als Abgabe für die Wahlpflicht Veranstaltung des
 ## Konzeption
 
 <img src="./Konzept des Algorithmus.PNG"/>
+
+## Vorbereitung
+
+Bevor der Algorithmus gestartet werden kann, muss sowohl in der ```InitStudents()```, ```InitInitiators()``` und ```InitProjects()``` die jeweiligen Studierenden, Projektinitiatoren und Projekte konfiguriert werden.
+
+Im Anscchluss kann der Algorithmus gestartet werden.
+
+## Algorithmus starten
+
+Über den Befehl ```dotnet run``` kann nun der Algorithmus gestartet werden. Im Anschluss gibt er aus, in welchem Projekt die jeweiligen Studierenden gelandet sind und wie zufrieden sie mit der Zuordnung des Projekts sein können.
+
+## Ausblick
+
+Es ist geplant, diesen Algorithmus über eine Webseite zu initierien und zu starten.
+
